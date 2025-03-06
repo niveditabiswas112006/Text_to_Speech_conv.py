@@ -22,9 +22,11 @@ WHAT ARE THE UNIQUE FEATURES ?
 | Code Editors              | `JetBrains Pycharm, Visual Studio Code`           |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 GROUP 26: 
 - SUJAL WARKE (MZ)
 - NIVEDITA BISWAS (MZ)
 - SANCHITA SURYAVANSHI (JH)
 - R VRISHIN (EM)
 
+![WhatsApp Image 2025-03-06 at 2 04 55 PM](https://github.com/user-attachments/assets/882af73f-17c1-4c9f-80a7-822aeaca9a5f)
